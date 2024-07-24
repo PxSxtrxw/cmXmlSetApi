@@ -16,3 +16,7 @@ Para instalar las dependencias necesarias, ejecute el siguiente comando en la te
 ```bash
 npm install facturacionelectronicapy-setapi
 ```
+```bash
+npm install http
+```
+Luego de la instalacion del modulo facturacionelectronicapy-setapi agregar en la estructura json del archivo package.json la linea: "type": "module", en el campo "dependencies" para el uso correcto del programa
